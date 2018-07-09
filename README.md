@@ -1,3 +1,2 @@
 # network-lab-git-study-group
-
-test
+commitの練習
